@@ -10,6 +10,8 @@ Topics covered include:
 4. Functions
 5. Interface
 6. Classes
+7. Inheritance
+8. Generics
 
 Folder structure:
 
