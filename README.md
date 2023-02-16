@@ -13,5 +13,5 @@ Topics covered include:
 
 Folder structure:
 
-src: holds all the .ts files
-dist: hold teh output .js files that are emitted by the typescript compiler. FYI, the process is known as transpiling.
+src: holds all the .ts files 
+dist: holds the output .js files that are emitted by the typescript compiler. FYI, the process is known as transpiling.
